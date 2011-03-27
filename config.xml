@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns	= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		    = "com.vinnycarpenter.traveltimes"
+	version 	= "1.0">
+
+	<name>Travel Times</name>
+
+	<description>
+        The purpose of this application is to display real-time travel times based on the DOT data.
+	</description>
+
+	<author href="http://www.j2eegeek.com/blog/" email="vscarpenter@gmail.com">
+		Vinny Carpenter
+	</author>
+
+</widget>
