@@ -2,3 +2,7 @@ This is the Travel Times iPhone application.  This application is built with HTM
 Sencha Touch to see how PhoneGap works.
 
 An Android version will be completed soon.
+
+The purpose of this application is to display real-time travel times based on the DOT
+data.  Since Wisconsin DOT data is not provided in an usable format, I am screen-scraping
+that data and providing it via a JSON feed to this application.
